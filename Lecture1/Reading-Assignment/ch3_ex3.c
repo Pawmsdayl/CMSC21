@@ -10,7 +10,7 @@ int main(void) {
     // initialize variables
     int num1, denom1, num2, denom2, result_num, result_denom;
 
-    // ask for values, scan inputs,  assign to corresponding variables
+    // ask for values, scan inputs in fraction format,  assign to corresponding variables
     printf("Enter first fraction: ");
     scanf("%d/%d", &num1, &denom1);
 
