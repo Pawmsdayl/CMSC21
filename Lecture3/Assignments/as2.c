@@ -24,27 +24,35 @@ int main() {
                 case 1:
                     printf("eleven.");
                     break;
+                    
                 case 2:
                     printf("twelve.");
                     break;
+                    
                 case 3:
                     printf("thirteen.");
                     break;
+                    
                 case 4:
                     printf("forteen.");
                     break;
+                    
                 case 5:
                     printf("fifteen.");
                     break;
+                    
                 case 6:
                     printf("sixteen.");
                     break;
+                    
                 case 7:
                     printf("seventeen.");
                     break;
+                    
                 case 8:
                     printf("eighteen.");
                     break;
+                    
                 case 9:
                     printf("nineteen");
                     break;
