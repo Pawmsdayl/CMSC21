@@ -42,11 +42,13 @@ int main(void) {
     }
 
     // Days
+    start = (8-start)%7; // signifies end of row
+    
     for (n=1; n<=days; n++) {
         printf("%2d ", n);
         
         // when end of row, print new line
-        if (n%7==(8-start)%7) {
+        if (n%7==start) {
             printf("\n");
         }
     }
