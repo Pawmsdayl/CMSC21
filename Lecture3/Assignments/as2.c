@@ -34,7 +34,7 @@ int main() {
                     break;
                     
                 case 4:
-                    printf("forteen.");
+                    printf("fourteen.");
                     break;
                     
                 case 5:
